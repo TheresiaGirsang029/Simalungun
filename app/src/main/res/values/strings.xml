@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simalungun</string>
+    <string name="button">Lanjut</string>
+    <string name="ok_button_title">OK</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="take_picture_description">Camera picture for sample app</string>
+
+    <style name="customfontstyle" parent="@android:style/TextAppearance.Small">
+        <item name="android:fontFamily">@font/manjariregular</item>
+    </style>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
